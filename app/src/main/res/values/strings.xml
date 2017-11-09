@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CompassApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="language">Language :</string>
+    <string name="chose">Chose</string>
+    <string name="ar">Arabic</string>
+    <string name="en">English</string>
+    <string name="fr">French</string>
+    <string-array name="langOptions">
+        <item >@string/ar</item>
+        <item >@string/en</item>
+        <item >@string/fr</item>
+    </string-array>
+    <string name="GPSAlertDialogTitle">GPS</string>
+    <string name="GPSAlertDialogMessage">GPS Message</string>
+    <string name="cancel">Cancel</string>
+</resources>

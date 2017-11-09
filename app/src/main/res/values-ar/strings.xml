@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">تطبيق البوصلة</string>
+
+    <string name="hello_world">أهلا بالجميع !</string>
+    <string name="action_settings">الخصائص</string>
+    <string name="language">اللغة :</string>
+    <string name="chose">إختر</string>
+    <string name="ar">العربية</string>
+    <string name="en">الإنجليزية</string>
+    <string name="fr">الفرنسية</string>
+    <string-array name="langOptions">
+        <item >@string/ar</item>
+        <item >@string/en</item>
+        <item >@string/fr</item>
+    </string-array>
+</resources>
